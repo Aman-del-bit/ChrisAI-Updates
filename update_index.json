@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "greetings": {
+    "url": "https://your_host_url.com/greetings.py"
+  }
+}
